@@ -105,6 +105,14 @@
 {
     "name": "西班牙(2)",
     "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/Spain(2).png"
+		},
+		{
+			"name": "12306",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/12306.png"
+		},
+		{
+			"name": "Claude",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Claude.png"
 		}
 	]
 }
