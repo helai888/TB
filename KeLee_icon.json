@@ -1,6 +1,6 @@
 {
-	"name": "可莉图标",
-	"description": "可莉图标订阅",
+	"name": "鹤来图标",
+	"description": "原可莉图标订阅",
 	"icons": [
 		{
 			"name": "Loon",
@@ -917,6 +917,10 @@
 		{
 			"name": "银行",
 			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/Bank.png"
-		}
+		},
+		{
+                        "name": "QQ阅读",
+                        "url": "https://raw.githubusercontent.com/helai888/tubiao/main/721469FD-0453-443D-8D9D-256F5EAB44CB.png"
+                }
 	]
 }
