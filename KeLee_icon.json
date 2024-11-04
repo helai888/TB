@@ -1,7 +1,11 @@
 {
 	"name": "不羡仙",
 	"description": "收集整理的图标",
-	
+	"icons": [
+	        {
+                 "name": "FM",
+                 "url": "https://raw.githubusercontent.com/helai888/TB/main/FM.png"
+                },
 		{
                         "name": "QQ阅读",
                         "url": "https://raw.githubusercontent.com/helai888/TB/main/9DBAF980-7248-49A4-B007-B52670CDD08D.png"
