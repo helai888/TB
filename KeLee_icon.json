@@ -3,8 +3,8 @@
 	"description": "收集整理的图标",
 	"icons": [
 	        {
-                 "name": "FM",
-                 "url": "https://raw.githubusercontent.com/helai888/TB/main/FM.png"
+                       "name": "可莉",
+			"url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/Other_icon/120px/KeLee.png"
                 },
 		{
                         "name": "QQ阅读",
