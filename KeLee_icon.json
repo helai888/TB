@@ -631,6 +631,14 @@
                         "name": "TT",
                         "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/tt.png"
                 },
+		{
+                        "name": "猫咪",
+                        "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Skicat.png"
+                },
+		{
+                        "name": "猫咪1",
+                        "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kuai.png"
+                }
 		
 	]
 }
