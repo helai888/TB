@@ -638,7 +638,15 @@
 		{
                         "name": "猫咪1",
                         "url": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Kuai.png"
-                }
+                },
+		{
+                       "name": "美女姐姐1",
+                       "url": "https://raw.githubusercontent.com/helai888/TB/main/7D6600D3-7A1C-4CB8-AA16-17AA22B4C883.png"
+               },
+	       {
+                       "name": "美女姐姐2",
+                       "url": "https://raw.githubusercontent.com/helai888/TB/main/6E73C4E0-D5B9-4825-A498-F0610A97151F.png"
+               },
 		
 	]
 }
