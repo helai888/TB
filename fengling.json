@@ -4,7 +4,7 @@
     "icons": [
         {
             "name": "QQ阅读",
-            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQReading.png"
+            "url": "https://raw.githubusercontent.com/helai888/TB/main/QQYD.png"
         },
         {
             "name": "12306",
@@ -28,11 +28,11 @@
         },
         {
             "name": "七猫小说",
-            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/7CatNovel.png"
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/SevenCat.png"
         },
         {
             "name": "喜马拉雅",
-            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/XiMaLaYa.png"
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Himalaya.png"
         },
         {
             "name": "唱吧",
@@ -40,15 +40,15 @@
         },
         {
             "name": "小红书",
-            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/XiaoHongShu.png"
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/RedPaper.png"
         },
         {
             "name": "微信",
-            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/WeChat.png"
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weixin.png"
         },
         {
             "name": "微信小程序",
-            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/WeChatMiniProgram.png"
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/WeixinMiniPrograms.png"
         },
         {
             "name": "微博",
@@ -60,7 +60,7 @@
         },
         {
             "name": "番茄小说",
-            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/FanqieNovel.png"
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/DragonRead.png"
         },
         {
             "name": "百度网盘",
@@ -68,11 +68,11 @@
         },
         {
             "name": "网易云音乐",
-            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/NetEaseMusic.png"
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/NeteaseCloudMusic.png"
         },
         {
             "name": "芒果tv",
-            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/MangoTV.png"
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Mango_TV.png"
         },
         {
             "name": "最右",
