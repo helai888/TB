@@ -1,0 +1,178 @@
+{
+    "name": "聆听风铃🎐",
+    "description": "收集整理的图标",
+    "icons": [
+        {
+            "name": "QQ阅读",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQReading.png"
+        },
+        {
+            "name": "12306",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/12306.png"
+        },
+        {
+            "name": "QQ",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQ.png"
+        },
+        {
+            "name": "QQ音乐",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/QQMusic.png"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YouTube.png"
+        },
+        {
+            "name": "YouTube Music",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/YouTubeMusic.png"
+        },
+        {
+            "name": "七猫小说",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/7CatNovel.png"
+        },
+        {
+            "name": "喜马拉雅",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/XiMaLaYa.png"
+        },
+        {
+            "name": "唱吧",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Changba.png"
+        },
+        {
+            "name": "小红书",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/XiaoHongShu.png"
+        },
+        {
+            "name": "微信",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/WeChat.png"
+        },
+        {
+            "name": "微信小程序",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/WeChatMiniProgram.png"
+        },
+        {
+            "name": "微博",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Weibo.png"
+        },
+        {
+            "name": "淘宝",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Taobao.png"
+        },
+        {
+            "name": "番茄小说",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/FanqieNovel.png"
+        },
+        {
+            "name": "百度网盘",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/BaiduNetDisk.png"
+        },
+        {
+            "name": "网易云音乐",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/NetEaseMusic.png"
+        },
+        {
+            "name": "芒果tv",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/MangoTV.png"
+        },
+        {
+            "name": "最右",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/ZuiYou.png"
+        },
+        {
+            "name": "转转",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/ZhuanZhuan.png"
+        },
+        {
+            "name": "菜鸟",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Cainiao.png"
+        },
+        {
+            "name": "网易邮箱大师",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/MailMaster.png"
+        },
+        {
+            "name": "酷我音乐",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Kuwo.png"
+        },
+        {
+            "name": "酷狗音乐",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/KuGou.png"
+        },
+        {
+            "name": "配音秀",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/DubbingShow.png"
+        },
+        {
+            "name": "支付宝",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/AliPay.png"
+        },
+        {
+            "name": "中国联通",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/ChinaUnicom.png"
+        },
+        {
+            "name": "饿了么",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/eleme.png"
+        },
+        {
+            "name": "Talkatone",
+            "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/talkatone.png"
+        },
+        {
+            "name": "猫耳FM",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/CatEarFM.png"
+        },
+        {
+            "name": "PayPal",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PayPal.png"
+        },
+        {
+            "name": "X",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/X.png"
+        },
+        {
+            "name": "彩云天气",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/ColorfulCloudsPro.png"
+        },
+        {
+            "name": "闲鱼",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/FleaMarket.png"
+        },
+        {
+            "name": "拼多多",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PinDuoDuo.png"
+        },
+        {
+            "name": "美图秀秀",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/MeiTu.png"
+        },
+        {
+            "name": "红果短剧",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/PhoenixVideo.png"
+        },
+        {
+            "name": "快递100",
+            "url": "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/KuaiDi100.png"
+        },
+        {
+            "name": "TT",
+            "url": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/tt.png"
+        },
+        {
+            "name": "Bybit",
+            "url": "https://raw.githubusercontent.com/helai888/TB/main/AF59E6BF-846D-4D49-8616-AB8E218C769B.png"
+        },
+        {
+            "name": "懒人听书",
+            "url": "https://raw.githubusercontent.com/helai888/TB/main/IMG_2292.jpeg"
+        },
+        {
+            "name": "iFAST",
+            "url": "https://github.com/helai888/TB/raw/main/IMG_2346.jpeg"
+        },
+        {
+            "name": "Felo",
+            "url": "https://github.com/helai888/TB/raw/main/IMG_2317.jpeg"
+        }
+    ]
+}
